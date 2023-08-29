@@ -20,19 +20,3 @@ Bancos, telefônicas, varejo, qualquer empresa que presta algum tipo de serviço
 Nesse projeto, vamos ajudar a Let's Talk (empresa telefônica da holding Let's Data) a manter seus clientes. Faremos isso criando modelos para classificar os clientes em "churn" ou "não churn", ou seja, se irão cancelar os serviços ou não.
 
 A base utilizada pode ser obtida no Kaggle e se trata de uma empresa telefônica fictícia com dados demográficos e de serviços contratados pelos clientes com a informação se saiu ou não da empresa.
-
-## Instalação das dependências
-
-Para instalar as dependências do projeto, certifique-se de ter o Python instalado. Em seguida, execute o seguinte comando no terminal ou prompt de comando: pip install -r requirements.txt
-
-Este comando irá instalar todas as bibliotecas e suas versões especificadas no arquivo `requirements.txt`, garantindo que o ambiente esteja configurado corretamente.
-
-## Executando o projeto
-
-Para executar o projeto, siga os passos abaixo:
-
-1. Clone este repositório para o seu ambiente local.
-2. Navegue para o diretório do projeto no terminal ou prompt de comando.
-3. Certifique-se de que as dependências estejam instaladas (consulte a seção "Instalação das dependências" acima).
-4. Execute o seguinte comando: python main.py
-5. Isso iniciará o aplicativo e você poderá interagir com ele através da interface do usuário.
